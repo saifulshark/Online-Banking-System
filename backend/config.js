@@ -1,3 +1,3 @@
 module.exports = {
-  JWT_SECRET: "ujjwal.js",
+  JWT_SECRET: "lenden.js",
 };
